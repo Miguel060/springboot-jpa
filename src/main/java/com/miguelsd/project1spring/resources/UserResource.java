@@ -1,6 +1,6 @@
-package resources;
+package com.miguelsd.project1spring.resources;
 
-import entities.User;
+import com.miguelsd.project1spring.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
